@@ -5,8 +5,8 @@
 ![曼谷实验室全景](https://github.com/user-attachments/assets/b93b0e4e-bca4-465a-aec0-f9c14a8a0be4)
 *(图示：我在曼谷的技术实验室，真实跨境落地环境，拒绝云玩家)*
 
-[![GitHub stars](https://img.shields.io/github/stars/janhaas1980-south/Twitter-Error-Fix?style=social)](https://github.com/janhaas1980-south/Twitter-Error-Fix)
-[![GitHub forks](https://img.shields.io/github/forks/janhaas1980-south/Twitter-Error-Fix?style=social)](https://github.com/janhaas1980-south/Twitter-Error-Fix)
+[![GitHub stars](https://img.shields.io/github/stars/janhaas1980-south/Twitter%E9%94%99%E8%AF%AF%E4%BF%AE%E5%A4%8D?style=social)](https://github.com/janhaas1980-south/Twitter%E9%94%99%E8%AF%AF%E4%BF%AE%E5%A4%8D)
+[![GitHub forks](https://img.shields.io/github/forks/janhaas1980-south/Twitter%E9%94%99%E8%AF%AF%E4%BF%AE%E5%A4%8D?style=social)](https://github.com/janhaas1980-south/Twitter%E9%94%99%E8%AF%AF%E4%BF%AE%E5%A4%8D)
 ---
 
 ### 🔍 深度分析：为什么“清理缓存”往往无效？
