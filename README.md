@@ -7,7 +7,6 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/janhaas1980-south/Twitter-Error-Fix?style=social)](https://github.com/janhaas1980-south/Twitter-Error-Fix)
 [![GitHub forks](https://img.shields.io/github/forks/janhaas1980-south/Twitter-Error-Fix?style=social)](https://github.com/janhaas1980-south/Twitter-Error-Fix)
-
 ---
 
 ### 🔍 深度分析：为什么“清理缓存”往往无效？
