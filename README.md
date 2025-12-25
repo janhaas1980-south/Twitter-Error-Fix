@@ -2,7 +2,7 @@
 
 > **☀️ 曼谷 30°C 现场实测！** 我是曼谷森叔。针对大家在 CSDN 评论区提到的 X 离线、YouTube 卡顿、AI 响应慢等痛点，这里整理了一套基于原生住宅链路的调优方案。**拒绝残血，回归满血。**
 
-![曼谷实验室全景](bangkok-office.png)
+![曼谷实验室全景](https://github.com/user-attachments/assets/b93b0e4e-bca4-465a-aec0-f9c14a8a0be4)
 *(图示：我在曼谷的技术实验室，真实跨境落地环境，拒绝云玩家)*
 
 [![GitHub stars](https://img.shields.io/github/stars/janhaas1980-south/Twitter-Error-Fix?style=social)](https://github.com/janhaas1980-south/Twitter-Error-Fix)
@@ -16,13 +16,11 @@
 * **机房 IP (Data Center IP)：** 由于万人同用，已被系统划入黑名单，触发高强度风控。
 * **规则限制：** Shadowrocket (小火箭) 规则配置不当导致图片/视频资源被拦截。
 
----![bangkok-office](https://github.com/user-attachments/assets/b93b0e4e-bca4-465a-aec0-f9c14a8a0be4)
-
+---
 
 ### ⚒️ 三步走快速修复指南
 
 #### 第一步：清理环境痕迹 (小白必试)
-
 * 点击主页链接左侧图标 -> “Cookie 和网站数据” -> 彻底删除所有数据。
 * **核心：** 彻底断开旧的会话连接。
 
@@ -45,7 +43,7 @@
 | **稳定性** | 频繁提示“设备已离线” | **稳定如老狗，全天候不掉线** |
 
 #### 📸 真实链路延迟实测 (GCP 原生落地)
-![Shadowrocket 延迟实测](test-speed.png)
+![Shadowrocket 延迟实测](https://github.com/user-attachments/assets/42e8508f-421a-4209-989c-f212e5fd146e)
 *图示：曼谷实验室实测，GCP 原生节点香港延迟 68ms，新加坡 59ms。这种低延迟是支撑 AI 毫秒级响应和 8K 视频丝滑播放的底层逻辑。*
 
 ---
