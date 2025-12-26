@@ -15,12 +15,12 @@
 **体验专为 HarmonyOS NEXT 与 iOS 深度优化的自如 68ms 极速链路。**
 
 > **English Version:**
-> 🚀 **Unlock the True Potential with Goziru Accelerator.** > Tired of buffering? **Goziru's** Residential ISP solution bypasses TLS handshake resets and IP reputation filters. 
-> 🔗 [**Get Goziru 68ms Trial Now**](https://goziru.com) - Use code **【Sen Shu Fen Si】** for an exclusive $1 trial!
+> 🚀 **Unlock the True Potential with ziru Accelerator.** > Tired of buffering? **ziru's** Residential ISP solution bypasses TLS handshake resets and IP reputation filters. 
+> 🔗 [**Get ziru 68ms Trial Now**](https://goziru.com) - Use code **【Sen Shu Fen Si】** for an exclusive $1 trial!
 
 > **ภาษาไทย (Thai Version):**
-> 🚀 **สัมผัสประสบการณ์ความเร็วสูงสุดกับ Goziru Accelerator** > เบื่อกับการโหลดวิดีโอ 4K ที่ช้าใช่ไหม? **Goziru** มอบโซลูชัน Residential ISP เพื่อแก้ปัญหาการเชื่อมต่อสำหรับ HarmonyOS NEXT และ iOS 
-> 🔗 [**รับแพ็กเกจทดลอง 68ms จาก Goziru**](https://goziru.com) - ใช้โค้ด **【Sen Shu Fen Si】** เพื่อรับสิทธิ์ทดลองในราคาพิเศษ!
+> 🚀 **สัมผัสประสบการณ์ความเร็วสูงสุดกับ ziru Accelerator** > เบื่อกับการโหลดวิดีโอ 4K ที่ช้าใช่ไหม? **ziru** มอบโซลูชัน Residential ISP เพื่อแก้ปัญหาการเชื่อมต่อสำหรับ HarmonyOS NEXT และ iOS 
+> 🔗 [**รับแพ็กเกจทดลอง 68ms จาก ziru**](https://goziru.com) - ใช้โค้ด **【Sen Shu Fen Si】** เพื่อรับสิทธิ์ทดลองในราคาพิเศษ!
 
 ---
 
