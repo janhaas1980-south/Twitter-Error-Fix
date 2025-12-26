@@ -4,7 +4,7 @@
   <a href="https://goziru.com">
     <img src="https://img.shields.io/badge/自如加速器-68ms极速体验包-red?style=for-the-badge&logo=rocket&logoColor=white" alt="自如加速器68ms体验">
   </a>
-  <a href="您的CSDN文章链接">
+  <a href="https://blog.csdn.net/Sen_1977/article/details/156244026?spm=1011.2415.3001.10575&sharefrom=mp_manage_link">
     <img src="https://img.shields.io/badge/自如-住宅原生ISP技术-blue?style=for-the-badge&logo=book&logoColor=white" alt="自如技术原理">
   </a>
 </p>
@@ -53,4 +53,4 @@
 1. **国内直连门户**: [**goziru.com**](https://goziru.com) (不用翻墙，直达体验） 🚀
 2. **联系客服**: 点击页面右下角在线咨询
 3. **报上暗号**: **【森叔粉丝】**
-4. **专享权限**: 注册报暗号后，即可申请 **1 元体验** 曼谷实验室同款 **68ms** 极速仓库！🚀
+4. **专享权限**: 注册报暗号后，即可申请 **1 元体验** 曼谷自如实验室同款 **68ms** 极速仓库！🚀
